@@ -2,10 +2,10 @@ translate-date-in-bangla
 ========================
 
 PHP class to translate date in Bangla<br />
-@package TranslateDate<br /><br />
+@package TranslateDate<br />
+@author Shah Alom <shahalom.amin@gmail.com><br /><br />
 
-Concept & Primary script is collected from http://tareq.wedevs.com/2010/09/translate-wordpress-date-time-comment-number-to-bangla-digit/<br />
-@author Shah Alom <shahalom.amin@gmail.com><br /><br /><br />
+Concept & Primary script is collected from http://tareq.wedevs.com/2010/09/translate-wordpress-date-time-comment-number-to-bangla-digit/<br /><br /><br />
 
 
 Example of Use:<br />=====================================<br /><br />
