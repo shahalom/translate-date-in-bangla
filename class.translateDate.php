@@ -51,7 +51,7 @@ class TranslateDate {
      */
     function get_date( $dt_frmt='', $str_date='' ) {
         if ( !$dt_frmt || empty($dt_frmt) ) {
-            $dt_frmt = "d M, Y";
+            $dt_frmt = "d F, Y";
         }
  				
 		if( empty($str_date) )
